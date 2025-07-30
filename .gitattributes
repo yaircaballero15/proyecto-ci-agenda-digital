@@ -1,0 +1,22 @@
+# Archivos Java y HTML con finales de línea LF
+*.java text eol=lf
+*.html text eol=lf
+
+# Otros archivos comunes con LF
+*.css text eol=lf
+*.js  text eol=lf
+*.ts  text eol=lf
+*.xml text eol=lf
+
+# Archivos binarios (sin conversión de saltos de línea)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Evitar conflicto de saltos de línea
+*.sh text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
