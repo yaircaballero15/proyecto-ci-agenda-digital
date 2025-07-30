@@ -4,6 +4,7 @@ Para levantar el proyecto
 2.- Renombrar el archivo: website\src\main\resources\application.properties.example a application.properties
 
 
+
 ------------------------------
 # 🛠 Proyecto en equipo con Git (4 personas)
 
