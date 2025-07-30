@@ -19,7 +19,7 @@ Para levantar el proyecto
 
 ### 1. Clonar el repositorio (solo la primera vez)
 ```bash
-git clone https://github.com/usuario/proyecto.git
+git clone https://github.com/yaircaballero15/proyecto-ci-agenda-digital.git
 cd proyecto
 ```
 
